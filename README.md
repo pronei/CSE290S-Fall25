@@ -2,21 +2,20 @@
 ## Greatest Hits in Systems Research
 | key | value | 
 |-----|-------|
-|When: | th XX -- YY |
-|Where: | ZZZ |
+|When: | Tuesdays and Thursdays at 9:50am |
+|Where: | Engineer 2 192 |
 |Who: | Peter Alvaro |
-|Office hours: | mondays @aaa |
+|Office hours: | TBD |
 |Prerequisites: | A background in systems, an interest in theory, and a sincere curiosity about how stuff works and breaks |
-|Readings: | TBD|
 
 # Description
 
-This graduate reading seminar will be dedicated to award-winning papers in systems and data management.  We will cover (mostly) very recent
-papers in SOSP, OSDI, NSDI, SIGMOD, and VLDB.
+This graduate reading seminar will be dedicated to award-winning papers in systems and data management.  We will cover a combination of very recent
+and classic papers in SOSP, OSDI, NSDI, SIGMOD, and VLDB, with an emphasis on current work.
 
 With very few exceptions, computer scientists send their best work to peer-reviewed conferences that are typically held annually.
-During these 2-4 day events, papers accepted to the conference are presented by one of the authors.  But at the end of the day,
-these talks, which are rarely recorded, are ephemeral.  The real artifacts are the papers, which then appear in the ``proceedings''
+During these 2-4 day events, papers accepted to the conference are presented by one of the authors.  But these talks, which are rarely recorded, are ephemeral.  
+The real artifacts are the papers, which then appear in the ``proceedings''
 of the conference.
 
 As many of you already know, getting a paper accepted to a conference is hard.  3-5 anonymous reviewers have to reach consensus that the 
@@ -28,7 +27,13 @@ the mark of a top conference.
 Other papers meet a very different fate.  As part of conference organization, a paper (sometimes two) is selected as `best paper' for that conference
 year, and the authors are presented with an award. These awards are extremely prestigious. Although the criteria by which they are selected is clearly 
 subjective, it is no more so than the criteria used to choose papers to appear in the conference!  What makes these papers so uncontroversially significant?
-Are there winning patterns in terms of presentation?  Do all best papers resemble one another?  
+Are there winning patterns in terms of presentation?  Do all best papers resemble one another?
+
+Conferences typically also present awards to past papers that have been highly influential.  The criterion for evaluating these ``test of time'' or
+``hall of fame'' papers is much more
+objective: papers can be selected based on their citation count and other impact measures, technology transfer to industry, and other criteria.
+Still, the reasons that these papers became so influential can remain mysterious!  What are the hallmarks of a lasting contribution to the discipline?
+Do all classic papers resemble one another?
 
 
 # Readings
@@ -44,7 +49,7 @@ This course is a research seminar: we will focus primarily on reading and discus
 
 The tentative reading list for this class (a work in progress) can be found here:
 
-[Readings](https://docs.google.com/spreadsheets/d/1MAhmHa4JQfOIXcwKv63uL9WlO1NBzfosml8oAEb3qJo/)
+[Readings](readings.md)
  
  
 # Presentations
@@ -68,8 +73,6 @@ papers and discussing them is a LOT of work!  But it is what we are here to do.
 
 If for some reason you will not be able to participate in discussion, but nevertheless want to take this class, please talk to me
 in office hours as soon as possible.
-
-
 
 
 | Subject | Share |
