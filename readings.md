@@ -1,27 +1,24 @@
-# OLD deprecated reading list
+### Best Papers
+| Paper Title | Paper Links | Conference and Year |
+| :--- | :--- | :--- |
+| Ozz: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering | [Link](https://gts3.org/assets/papers/2024/jeong:ozz.pdf) | SOSP 2024 |
+| LazyLog: A New Shared Log Abstraction for Low-Latency Applications | [Link](https://dassl-uiuc.github.io/pdfs/papers/lazylog.pdf) | SOSP 2024 |
+| Building Bridges: Safe Interactions with Foreign Languages through Omniglot | [Link](https://www.usenix.org/conference/osdi25/presentation/schuermann) | OSDI 2025 |
+| Basilisk: Using Provenance Invariants to Automate Proofs of Undecidable Protocols | [Link](https://www.usenix.org/conference/osdi25/presentation/zhang-tony) | OSDI 2025 |
+| NDD: A Decision Diagram for Network Verification | [Link](https://www.usenix.org/conference/nsdi25/presentation/li-zechun) | NSDI 2025 |
+| CellReplay: Towards accurate record-and-replay for cellular networks | [Link](https://www.usenix.org/conference/nsdi25/presentation/sentosan) | NSDI 2025 |
+| AnyBlox: A Framework for Self-Decoding Datasets | [Link](https://vldb.org/pvldb/volumes/18/paper/AnyBlox%3A%20A%20Framework%20for%20Self-Decoding%20Datasets) | VLDB 2025 |
+| Diva: Dynamic Range Filter for Var-Length Keys and Queries | [Link](https://vldb.org/pvldb/volumes/18/paper/Diva%3A%20Dynamic%20Range%20Filter%20for%20Var-Length%20Keys%20and%20Queries) | VLDB 2025 |
+| Analytics Are Heavy. The DBMS Is Busy. When Will My Mission-Critical Transaction Start Running? | [Link](https://www2.cs.sfu.ca/~tzwang/preemptdb.pdf) | SIGMOD 2025 |
 
+---
 
-| Date | Subject | Readings |
-|------|-----|------|
-|1/5 | Welcome | |
-| 1/7 | Fundamentals: doom and gloom |<ul><li> [A note on distributed computing](http://theory.stanford.edu/people/jcm/cs358-96/spring-os.ps) </li> <li> [Impossibility of Distributed Consensus with One Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)</li></ul>|
-|1/12 | Fundamentals: rays of hope |[Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail](https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf) |
-|1/14| Fundamentals: rays of hope | [The Weakest Failure Detector for Solving Consensus](http://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p685-chandra.pdf)|
-|1/19| Fundamentals: what we know | <ul><li>[Using Reasoning About Knowledge to analyze Distributed Systems](https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf)</li><li></li><ul> |
-|1/21| Storage: naming and finding | <ul><li>[Chord: A Scalable Peer-to-peer Lookup Service for InternetApplications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)</li><li> [Using Lightweight Modeling To Understand Chord](http://www.research.att.com/export/sites/att_labs/techdocs/TD_100729.pdf)</li><li>[Internet Indirection Infrastructure](http://www.cs.berkeley.edu/~istoica/papers/i3-sigcomm02.pdf)</li><ul>
-|1/26| Guest Lecturer | Kyle Kingsbury | 
-|1/28| Storage: conflicts and consistency 2| <ul><li>[Managing update conflicts in Bayou, a weakly connected replicated storage system](http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf)</li><li>[Don’t Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](https://www.cs.cmu.edu/~dga/papers/cops-sosp2011.pdf)</li><ul>|
-|2/2| Guest Lecturer | Bruce Lindsay |
-|2/4| Storage: conflicts and consistency 1 | <ul><li>[Concurrency Control in Distributed Database Systems](https://www.cs.berkeley.edu/~brewer/cs262/concurrency-distributed-databases.pdf)</li><ul> | 
-|2/9| Programming models: the classics| <ul><li>Generative Communication in Linda (can't find free)</li><li>[DISTRIBUTED PROGRAMMING IN ARGUS](https://people.csail.mit.edu/alinush/6.824-spring-2015/papers/argus88.pdf)</li></ul>|
-|2/11| Programming models: Actors | <ul><li>[A Universal Modular ACTOR Formalism for Artificial Intelligence](http://worrydream.com/refs/Hewitt-ActorModel.pdf)</li><li>[Orleans: Distributed Virtual Actors for Programmability and Scalability](http://research.microsoft.com/pubs/210931/Orleans-MSR-TR-2014-41.pdf)</li><li>Reactors: a data-oriented synchronous/asynchronous programming model for distributed applications (can't find free)</li></ul>|
-|2/18| Programming models: potpourri | <ul><li>[The Orc Programming Language](http://orc.googlecode.com/svn-history/r2526/trunk/Website/papers/forte09.pdf)</li><li>[BOOM Analytics](http://db.cs.berkeley.edu/papers/eurosys10-boom.pdf)</li>|
-|2/23| Coordination and availability | <ul><li>[Towards a Cloud Computing Research Agenda](https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf)</li><li>[Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf)</li></ul>|
-|2/25| Guest Lecture | Caitie McCaffrey |
-|3/1| Guest Lecture | Pat Helland |
-|3/3| Guest Lecture | Doug Terry |
-|3/8| Avoiding coordination 2 | <ul><li>[Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)</li><li>[In Search of an Understandable Consensus Algorithm](http://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14)</li></ul>|
-|3/10| Avoiding coordination 1 | <ul><li>[A comprehensive study of Convergent and Commutative Replicated Data Types](http://hal.upmc.fr/inria-00555588/document)</li><li>[Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf)</li></ul>|
-
-
-
+### Test of Time
+| Paper Title | Paper Links | Original Publication Year |
+| :--- | :--- | :--- |
+| Toward timely, predictable and cost-effective data analytics | [Link](https://dl.acm.org/doi/pdf/10.1145/2830508) | 2016 |
+| Serializable Isolation for Snapshot Databases | [Link](https://dl.acm.org/doi/10.1145/1376616.1376690) | 2008 |
+| Xen and the art of virtualization | [Link](https://dl.acm.org/doi/10.1145/945445.945462) | 2003 |
+| The Multikernel: A New OS Architecture for Scalable Multicore | [Link](https://dl.acm.org/doi/10.1145/1629575.1629579) | 2009 |
+| DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language | [Link](https://www.microsoft.com/en-us/research/publication/dryadlinq-a-system-for-general-purpose-distributed-data-parallel-computing-using-a-high-level-language/) | 2010 |
+| On the criteria to be used in decomposing systems into modules | [Link](https://dl.acm.org/doi/10.1145/361598.361623) | 1972 |
