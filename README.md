@@ -23,13 +23,13 @@ resubmission, and hence sometimes we find ourselves publishing a paper that we w
 filter. This is still of course the lucky case -- a majority of papers are invariably rejected, and a low acceptance rate is often considered
 the mark of a top conference.
 
-Other papers meet a very different fate.  As part of conference organization, a paper (sometimes two) is selected as `best paper' for that conference
+Other papers meet a very different fate.  As part of conference organization, a paper (sometimes two) is selected as "best paper" for that conference
 year, and the authors are presented with an award. These awards are extremely prestigious. Although the criteria by which they are selected is clearly 
 subjective, it is no more so than the criteria used to choose papers to appear in the conference!  What makes these papers so uncontroversially significant?
 Are there winning patterns in terms of presentation?  Do all best papers resemble one another?
 
-Conferences typically also present awards to past papers that have been highly influential.  The criterion for evaluating these ``test of time'' or
-``hall of fame'' papers is much more
+Conferences typically also present awards to past papers that have been highly influential.  The criterion for evaluating these "test of time" or
+"hall of fame" papers is much more
 objective: papers can be selected based on their citation count and other impact measures, technology transfer to industry, and other criteria.
 Still, the reasons that these papers became so influential can remain mysterious!  What are the hallmarks of a lasting contribution to the discipline?
 Do all classic papers resemble one another?
