@@ -14,8 +14,7 @@ This graduate reading seminar will be dedicated to award-winning papers in syste
 and classic papers in SOSP, OSDI, NSDI, SIGMOD, and VLDB, with an emphasis on current work.
 
 With very few exceptions, computer scientists send their best work to peer-reviewed conferences that are typically held annually.
-During these 2-4 day events, papers accepted to the conference are presented by one of the authors.  But these talks, which are rarely recorded, are ephemeral.  
-The real artifacts are the papers, which then appear in the ``proceedings''
+During these 2-4 day events, papers accepted to the conference are presented by one of the authors.  But these talks, which are rarely recorded, are ephemeral.  The real artifacts are the papers, which then appear in the ``proceedings''
 of the conference.
 
 As many of you already know, getting a paper accepted to a conference is hard.  3-5 anonymous reviewers have to reach consensus that the 
