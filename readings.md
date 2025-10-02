@@ -21,7 +21,8 @@
 | Xen and the art of virtualization | [Link](https://dl.acm.org/doi/10.1145/945445.945462) | 2003 |||
 | The Multikernel: A New OS Architecture for Scalable Multicore | [Link](https://dl.acm.org/doi/10.1145/1629575.1629579) | 2009 |||
 | DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language | [Link](https://www.microsoft.com/en-us/research/publication/dryadlinq-a-system-for-general-purpose-distributed-data-parallel-computing-using-a-high-level-language/) | 2010 |||
-| On the criteria to be used in decomposing systems into modules | [Link](https://dl.acm.org/doi/10.1145/361598.361623) | 1972 |10/2||
+| On the criteria to be used in decomposing systems into modules | [Link](https://dl.acm.org/doi/10.1145/361598.361623) | 1972 |10/2| Pranay |
+
 
 
 
