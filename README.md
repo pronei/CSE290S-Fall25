@@ -5,7 +5,7 @@
 |When: | Tuesdays and Thursdays at 9:50am |
 |Where: | Engineer 2 192 |
 |Who: | Peter Alvaro |
-|Office hours: | TBD |
+|Office (half-)hours: | Tuesdays 11:30-12 (in my office), Fridays 2-2:30pm ([zoom](https://ucsc.zoom.us/j/97059000902?pwd=SObWBFw5YseSzDhsfjA5xxUo9dAWcq.1)) |
 |Prerequisites: | A background in systems, an interest in theory, and a sincere curiosity about how stuff works and breaks |
 
 # Description
