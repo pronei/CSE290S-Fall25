@@ -7,7 +7,7 @@
 | Basilisk: Using Provenance Invariants to Automate Proofs of Undecidable Protocols | [Link](https://www.usenix.org/conference/osdi25/presentation/zhang-tony) | OSDI 2025 |||
 | NDD: A Decision Diagram for Network Verification | [Link](https://www.usenix.org/conference/nsdi25/presentation/li-zechun) | NSDI 2025 |||
 | CellReplay: Towards accurate record-and-replay for cellular networks | [Link](https://www.usenix.org/conference/nsdi25/presentation/sentosan) | NSDI 2025 |||
-| AnyBlox: A Framework for Self-Decoding Datasets | [Link](https://vldb.org/pvldb/volumes/18/paper/AnyBlox%3A%20A%20Framework%20for%20Self-Decoding%20Datasets) | VLDB 2025 |||
+| AnyBlox: A Framework for Self-Decoding Datasets | [Link](https://vldb.org/pvldb/volumes/18/paper/AnyBlox%3A%20A%20Framework%20for%20Self-Decoding%20Datasets) | VLDB 2025 || Lucas Ellenberger |
 | Diva: Dynamic Range Filter for Var-Length Keys and Queries | [Link](https://vldb.org/pvldb/volumes/18/paper/Diva%3A%20Dynamic%20Range%20Filter%20for%20Var-Length%20Keys%20and%20Queries) | VLDB 2025 |||
 | Analytics Are Heavy. The DBMS Is Busy. When Will My Mission-Critical Transaction Start Running? | [Link](https://www2.cs.sfu.ca/~tzwang/preemptdb.pdf) | SIGMOD 2025 ||Thomas Dillow|
 
