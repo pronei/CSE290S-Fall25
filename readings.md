@@ -3,7 +3,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | Ozz: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering | [Link](https://gts3.org/assets/papers/2024/jeong:ozz.pdf) | SOSP 2024 |||
 | LazyLog: A New Shared Log Abstraction for Low-Latency Applications | [Link](https://dassl-uiuc.github.io/pdfs/papers/lazylog.pdf) | SOSP 2024 |9/30| Zephiris |
-| Building Bridges: Safe Interactions with Foreign Languages through Omniglot | [Link](https://www.usenix.org/conference/osdi25/presentation/schuermann) | OSDI 2025 |||
+| Building Bridges: Safe Interactions with Foreign Languages through Omniglot | [Link](https://www.usenix.org/conference/osdi25/presentation/schuermann) | OSDI 2025 || Achilles Benetopoulos |
 | Basilisk: Using Provenance Invariants to Automate Proofs of Undecidable Protocols | [Link](https://www.usenix.org/conference/osdi25/presentation/zhang-tony) | OSDI 2025 |||
 | NDD: A Decision Diagram for Network Verification | [Link](https://www.usenix.org/conference/nsdi25/presentation/li-zechun) | NSDI 2025 |||
 | CellReplay: Towards accurate record-and-replay for cellular networks | [Link](https://www.usenix.org/conference/nsdi25/presentation/sentosan) | NSDI 2025 |||
