@@ -17,7 +17,7 @@
 | Paper Title | Paper Links | Original Publication Year |Read for discussion on|Presenter
 | :--- | :--- | :--- | :--- | :--- |
 | NoDB: Efficient Query Execution on Raw Data Files |[Link](https://cs.brown.edu/courses/cs227/archives/2016/papers/NoDBEfficientQuery.pdf) | 2012 |9/25| N/A|
-| Serializable Isolation for Snapshot Databases | [Link](https://dl.acm.org/doi/10.1145/1376616.1376690) | 2008 |||
+| Serializable Isolation for Snapshot Databases | [Link](https://dl.acm.org/doi/10.1145/1376616.1376690) | 2008 || Michael Lanthier |
 | Xen and the art of virtualization | [Link](https://dl.acm.org/doi/10.1145/945445.945462) | 2003 |||
 | The Multikernel: A New OS Architecture for Scalable Multicore | [Link](https://dl.acm.org/doi/10.1145/1629575.1629579) | 2009 || Ella Lehavi |
 | DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language | [Link](https://www.microsoft.com/en-us/research/publication/dryadlinq-a-system-for-general-purpose-distributed-data-parallel-computing-using-a-high-level-language/) | 2010 |10/7| Kat Kosolapova |
