@@ -18,9 +18,9 @@
 | :--- | :--- | :--- | :--- | :--- |
 | NoDB: Efficient Query Execution on Raw Data Files |[Link](https://cs.brown.edu/courses/cs227/archives/2016/papers/NoDBEfficientQuery.pdf) | 2012 |9/25| N/A|
 | Serializable Isolation for Snapshot Databases | [Link](https://dl.acm.org/doi/10.1145/1376616.1376690) | 2008 |10/21| Michael Lanthier |
-| Xen and the art of virtualization | [Link](https://dl.acm.org/doi/10.1145/945445.945462) | 2003 |||
+| Xen and the art of virtualization | [Link](https://dl.acm.org/doi/10.1145/945445.945462) | 2003 |10/30|Harry Dole|
 | The Multikernel: A New OS Architecture for Scalable Multicore | [Link](https://dl.acm.org/doi/10.1145/1629575.1629579) | 2009 |10/16| Ella Lehavi |
-| DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language | [Link](https://www.microsoft.com/en-us/research/publication/dryadlinq-a-system-for-general-purpose-distributed-data-parallel-computing-using-a-high-level-language/) | 2010 |10/7| Kat Kosolapova |
+| DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language | [Link](https://www.microsoft.com/en-us/research/publication/dryadlinq-a-system-for-general-purpose-distributed-data-parallel-computing-using-a-high-level-language/) | 2010 |10/30| Kat Kosolapova |
 | On the criteria to be used in decomposing systems into modules | [Link](https://dl.acm.org/doi/10.1145/361598.361623) | 1972 |10/2||
 
 
