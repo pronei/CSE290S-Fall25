@@ -23,6 +23,14 @@
 | DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language | [Link](https://www.microsoft.com/en-us/research/publication/dryadlinq-a-system-for-general-purpose-distributed-data-parallel-computing-using-a-high-level-language/) | 2010 |10/7| Kat Kosolapova |
 | #1 On the criteria to be used in decomposing systems into modules, #2 Software Components: Only The Giants Survive | [Link #1](https://dl.acm.org/doi/10.1145/361598.361623), [Link #2](https://www.microsoft.com/en-us/research/publication/software-components-only-the-giants-survive/) | 1972, 2004 |10/2| Cameron Oakley |
 
+---
+
+### Other Readings
+| Paper Title | Paper Links | Original Publication Year |Read for discussion on|Presenter
+| :--- | :--- | :--- | :--- | :--- |
+| Dryad: Distributed Data-parallel Programs from Sequential Building Blocks |[Link](https://www.microsoft.com/en-us/research/publication/dryad-distributed-data-parallel-programs-from-sequential-building-blocks/) | 22007 |||
+
+
 
 
 
